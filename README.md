@@ -71,3 +71,5 @@ This task was a practical and educational experience for me. It not only strengt
 Using Code::Blocks made the development process smooth and beginner-friendly, especially since it handled compilation and errors clearly. I now feel more confident writing C code involving dynamic memory, and I look forward to applying these concepts to bigger projects in the future.
 
 
+*OUTPUT*:![Image](https://github.com/user-attachments/assets/00d914cc-4bf3-4506-9c54-999a402032ec)
+
